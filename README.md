@@ -3,6 +3,7 @@ Manufactured chips generally consist of several complex combinational circuits, 
 
 
 The approach used to generate the algorithm is by breaking it down into smaller, manageable steps.
+
 STEP 1: It begins by reading the circuit file, which contains information about the different parts and logic equations of the circuit.
 
 STEP 2: Next, the algorithm parses the circuit information to extract the nodes and their corresponding equations. This allows the algorithm to understand the structure of the circuit and how it operates.
