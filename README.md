@@ -1,5 +1,9 @@
 # Simran_Shah_Google_Girl_Hackathon_Ideathon_Round
-**All the related code and input files are attached**
+
+
+** All the related code and input files are attached **
+
+
 Manufactured chips generally consist of several complex combinational circuits, in designing those chips, sometimes, the gate gets faulty and stuck. When a signal or gate output is stuck at 0 or 1 value, independent of the inputs provided to the circuit, the signal is said to be stuck. This fault is generally of two types, firstly SA0(Stuck at 0) in which the signal is stuck at 0, and secondly SA1(Stuck at 1)in which the signal is stuck at 1. Now these faults can cause the logic operation to vary from the result required, So it is essential to find and check if the combinational circuit is faulty or right. In the given scenario, we are provided with the input in the form of a Circuit file which consists of the logic of the circuit, and a fault file which explains the type of fault and location of the fault. The task is to find a vector of inputs that can help in detecting the fault along with the expected output due to the fault.
 
 
